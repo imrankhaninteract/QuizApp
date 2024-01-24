@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
 body{
     background: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-size: cover;
@@ -24,10 +25,11 @@ body{
     width: 35rem;
     box-shadow: 0px 0px 5px grey;
     display: flex;
-    background-color: white;
+    background-color: rgb(99, 0, 139);
     border-radius: 10px;
     overflow: hidden;
     flex-direction: column;
+    color: rgb(148, 62, 0);
 }
 
 .col {
