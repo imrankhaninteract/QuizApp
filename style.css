@@ -60,3 +60,7 @@ body{
     box-shadow: 0px -1px 1px grey;
     width: 100%;
 }
+.score{
+    text-align: center;
+    font-size: 30px;
+}
